@@ -18,8 +18,7 @@ This project is an Advanced Obstacle Avoiding Car using an Arduino microcontroll
 
 🛠 Components Required
 
-
-🎛 Arduino Uno (or compatible board)
+🎛 Arduino Uno (or compatible board) 
 📡 Ultrasonic Sensor (HC-SR04)
 🔌 Motor Driver Module (L293D)
 🚙 Two DC Motors
