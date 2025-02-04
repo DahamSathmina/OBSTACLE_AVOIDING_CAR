@@ -4,20 +4,26 @@ Obstacle Avoiding Car - Arduino Project 🤖
 This project is an Arduino-based autonomous car that detects obstacles and avoids collisions using ultrasonic sensors. It employs an L293D Motor Shield to control the movement of four DC motors, enabling smooth navigation with smart turning logic and dynamic speed control.
 
 🔹 Features
+
 ✅ Autonomous Navigation – Moves forward and avoids obstacles automatically.
 
 ✅ Three Ultrasonic Sensors – Front, Left, and Right sensors for better decision-making.
+
 ✅ Dynamic Speed Control – Adjusts speed based on the distance from obstacles.
+
 ✅ Smart Turning Logic – Decides whether to turn left or right based on sensor data. 
+
 ✅ Efficient Power Management – Uses a battery pack for mobile operation.
 
 🛠 Hardware Requirements
-Component	Quantity	Purpose
-Arduino Uno / Mega	1	Microcontroller
-L293D Motor Shield	1	Motor driver module
-HC-SR04 Ultrasonic Sensors	3	Distance measurement (Front, Left, Right)
-DC Motors + Wheels	4	Movement
-Battery Pack	1	Power supply
+
+    Component	        Quantity	     Purpose
+Arduino Uno / Mega        	1 	Microcontroller
+L293D Motor Shield	        1 	Motor driver module
+HC-SR04 Ultrasonic Sensors	3	  Distance measurement (Front, Left, Right)
+DC Motors + Wheels	        4	  Movement
+Battery Pack	              1	  Power supply
+
 ⚡ Circuit Diagram & Connections
 Ultrasonic Sensor (Front)
 TRIG → D12
