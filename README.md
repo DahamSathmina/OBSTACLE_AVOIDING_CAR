@@ -21,10 +21,10 @@ This project is an Arduino-based autonomous car that detects obstacles and avoid
 
        Component	        Quantity	     Purpose
     Arduino Uno / Mega         	1 	     Microcontroller
-    L293D Motor Shield	        1 	     Motor driver module
+    L293D Motor Shield	       1 	     Motor driver module
     HC-SR04 Ultrasonic Sensors	3	     Distance measurement (Front, Left, Right)
-    DC Motors + Wheels	        4	     Movement
-    Battery Pack	            1	     Power supply
+    DC Motors + Wheels	       4	     Movement
+    Battery Pack	              1	     Power supply
 
 ⚡ Circuit Diagram & Connections
 
@@ -52,6 +52,7 @@ Motor 1 & 2 → Left side wheels
 
 Motor 3 & 4 → Right side wheels
 
+
 📝 Code Explanation
 
 The Arduino sketch consists of:
@@ -60,17 +61,15 @@ The Arduino sketch consists of:
 
 🔹 Dynamic Speed Control – Adjusts the motor speed based on proximity to obstacles.
 
-🔹 Obstacle Avoidance Logic
-
-If no obstacle detected → Moves forward.
-
-If obstacle detected → Stops, moves backward, then turns left/right based on space availability.
+🔹 Obstacle Avoidance Logic - If no obstacle detected → Moves forward.
+                               If obstacle detected → Stops, moves backward, then turns left/right based on space availability.
 
 🔹 Smart Turning Mechanism – Uses left & right ultrasonic sensors to decide the best turn direction.
 
+
 🚀 Installation & Uploading Code
 
-Install the Arduino IDE – Download here.
+Install the Arduino IDE – #Download here.
 
 Install Required Library:
 
@@ -88,6 +87,7 @@ Click Upload to flash the code.
 
 Power the Car using batteries and test the navigation.
 
+
 🛠 How It Works
 
 1️⃣ The car moves forward while continuously checking for obstacles.
@@ -99,6 +99,7 @@ Power the Car using batteries and test the navigation.
 4️⃣ It then turns and resumes forward movement.
 
 5️⃣ The cycle repeats, allowing autonomous movement in an environment.
+
 
 🔧 Future Enhancements
 
