@@ -104,7 +104,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 👨‍💻 Author
 
-Developed by Daham. Reach out for suggestions and improvements!
+Developed by Daham. Reach out for suggestions and improvements!        
 ⭐ Don't forget to star the repository if you found this useful!
 
 
