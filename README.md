@@ -1,4 +1,4 @@
-# OBSTACLE_AVOIDING_CAR
+# OBSTACLE AVOIDING CAR
 Obstacle Avoiding Car - Arduino Project 🤖
 
 📌 Overview
@@ -69,7 +69,7 @@ The Arduino sketch consists of:
 
 🚀 Installation & Uploading Code
 
-Install the Arduino IDE – #Download here.
+Install the Arduino IDE – Download here.
 
 Install Required Library:
 
