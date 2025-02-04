@@ -9,7 +9,7 @@ This project is an Advanced Obstacle Avoiding Car using an Arduino microcontroll
 🌟 Features
 
 
-🤖 Intelligent obstacle detection and avoidance
+🤖 Intelligent obstacle detection and avoidance  
 📏 Uses ultrasonic sensor (HC-SR04) for precise distance measurement
 ⚙️ Motor driver (L293D) for efficient motor control
 🧠 Enhanced decision-making algorithm for smooth navigation
