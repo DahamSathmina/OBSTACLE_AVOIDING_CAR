@@ -16,6 +16,7 @@ Enhanced decision-making algorithm for smooth navigation
 Simple and efficient Arduino-based implementation
 
 
+
 🔧 Components Required
 
 Arduino Uno (or compatible board)
@@ -35,9 +36,11 @@ Power Supply (Battery pack or USB power)
 Jumper wires and connectors
 
 
+
 📡 Circuit Diagram
 
 (Insert an image or link to a circuit diagram here)
+
 
 
 ⚙️ Installation and Setup
@@ -55,6 +58,7 @@ Select the correct board and port in Arduino IDE.
 Upload the code to your Arduino board.
 
 
+
 🚀 Usage
 
 Once powered on, the car will start moving forward.
@@ -62,6 +66,7 @@ Once powered on, the car will start moving forward.
 When it detects an obstacle, it will stop, scan for a clear path, and turn accordingly.
 
 The ultrasonic sensor helps it navigate and avoid collisions dynamically.
+
 
 
 📝 Code Explanation
@@ -76,6 +81,7 @@ Servo Motor (Optional) to rotate the sensor for scanning.
 Arduino Programming to process sensor data and control the car's movements.
 
 
+
 🔮 Future Improvements
 
 Adding a Bluetooth module for manual control via a mobile app.
@@ -85,6 +91,7 @@ Implementing an AI-based path planning algorithm.
 Using additional sensors (IR, LIDAR) for better navigation.
 
 Integrating GPS for route tracking.
+
 
 
 🤝 Contributing
