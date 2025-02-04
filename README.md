@@ -3,7 +3,8 @@
 
 This project is an Advanced Obstacle Avoiding Car using an Arduino microcontroller. The car uses an ultrasonic sensor to detect obstacles and automatically changes direction to avoid collisions. It is an ideal project for robotics enthusiasts, electronics hobbyists, and Arduino programmers looking for an advanced automation project.
 
-✨ #FEATURES
+✨
+# FEATURES
 
 Intelligent obstacle detection and avoidance        
 Uses ultrasonic sensor (HC-SR04) for precise distance measurement        
