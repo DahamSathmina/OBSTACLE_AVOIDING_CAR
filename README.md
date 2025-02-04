@@ -32,7 +32,7 @@ Jumper wires and connectors
 
 ⚙️ Installation and Setup
 
-       https://github.com/DahamSathmina/OBSTACLE_AVOIDING_CAR.git
+       Clone Repository: https://github.com/DahamSathmina/OBSTACLE_AVOIDING_CAR.git
 
 Open the .ino file in the Arduino IDE.        
 Connect the components as per the circuit diagram.        
