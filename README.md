@@ -7,7 +7,7 @@ This project is an Arduino-based autonomous car that detects obstacles and avoid
 ✅ Autonomous Navigation – Moves forward and avoids obstacles automatically.
 ✅ Three Ultrasonic Sensors – Front, Left, and Right sensors for better decision-making.
 ✅ Dynamic Speed Control – Adjusts speed based on the distance from obstacles.
-✅ Smart Turning Logic – Decides whether to turn left or right based on sensor data.
+✅ Smart Turning Logic – Decides whether to turn left or right based on sensor data. 
 ✅ Efficient Power Management – Uses a battery pack for mobile operation.
 
 🛠 Hardware Requirements
