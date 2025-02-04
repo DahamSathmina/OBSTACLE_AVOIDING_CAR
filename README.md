@@ -1,5 +1,5 @@
-# OBSTACLE-_AVOIDING-_CAR
- Obstacle Avoiding Car - Arduino Project 🤖
+# OBSTACLE_AVOIDING_CAR
+Obstacle Avoiding Car - Arduino Project 🤖
 📌 Overview
 This project is an Arduino-based autonomous car that detects obstacles and avoids collisions using ultrasonic sensors. It employs an L293D Motor Shield to control the movement of four DC motors, enabling smooth navigation with smart turning logic and dynamic speed control.
 
