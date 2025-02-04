@@ -17,7 +17,7 @@ Simple and efficient Arduino-based implementation
 Arduino Uno (or compatible board)        
 Ultrasonic Sensor (HC-SR04)        
 Motor Driver Module (L293D)        
-Two DC Motors        
+Four DC Gear Motors        
 Wheels and chassis        
 Servo Motor (for sensor rotation, optional)        
 Power Supply (Battery pack or USB power)        
