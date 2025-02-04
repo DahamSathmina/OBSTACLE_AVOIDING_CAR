@@ -16,7 +16,7 @@ Enhanced decision-making algorithm for smooth navigation
 Simple and efficient Arduino-based implementation
 
 
-🔧# Components_Required
+🔧 Components Required
 
 Arduino Uno (or compatible board)
 
