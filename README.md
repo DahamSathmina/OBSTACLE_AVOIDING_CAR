@@ -93,7 +93,7 @@ Feel free to fork this repository and submit pull requests to enhance functional
 
 📜 License
 
-This project is open-source and available under the MIT License.
+This project is open-source and available under the [MIT License].
 
 👨‍💻 Author
 
