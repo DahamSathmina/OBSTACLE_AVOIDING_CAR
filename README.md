@@ -41,7 +41,7 @@ Connect the components as follows:
    - AFMotor
    - NewPing
    - Servo
-3. Load the `advanced_obstacle_avoiding_car.ino` file into the Arduino IDE.
+3. Load the `obstacle_avoiding_car.ino` file into the Arduino IDE.
 4. Verify and upload the code to your Arduino board.
 
 ## ⚛️ Advanced Functionality
