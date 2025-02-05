@@ -34,9 +34,9 @@ Connect the components as follows:
 
 ## 🔄 Installation
 1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/advanced-obstacle-avoiding-car.git
-   ```
+   
+   git clone : https://github.com/DahamSathmina/OBSTACLE_AVOIDING_CAR.git
+   
 2. Open the Arduino IDE and install the required libraries:
    - AFMotor
    - NewPing
