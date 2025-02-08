@@ -13,7 +13,7 @@
 
 // Constants
 #define MAX_DISTANCE 300 // Maximum measurable distance in cm
-#define MAX_SPEED 150 // Maximum speed for the motors
+#define MAX_SPEED 255 // Maximum speed for the motors
 #define MAX_SPEED_INCREMENT 2 // Speed increment for gradual acceleration
 
 // Objects
