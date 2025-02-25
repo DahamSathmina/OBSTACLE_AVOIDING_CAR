@@ -1,7 +1,7 @@
 //************************** ARDUINO OBSTACLE AVOIDING CAR **************************//
 // L293D MOTOR DRIVER CONTROLLER
 // Required Libraries: AFMotor, NewPing, Servo
-// To Install the libraries go to sketch >> Include Library >> Manage Libraries.... >> Search Libbrary Name and Install //
+// To Install the libraries go to sketch >> Include Library >> Manage Libraries.... >> Search Library Name and Install //
 
 #include <AFMotor.h>
 #include <NewPing.h>
